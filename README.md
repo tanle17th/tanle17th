@@ -38,6 +38,7 @@
 <img align="left" alt="GitLab" width="26px" src="https://cdn-icons-png.flaticon.com/512/5968/5968853.png" />
 
 <br />
+<br />
 
 [website]: https://tanle17th.github.io/My-Portfolio
 [twitter]: https://twitter.com/TanLe12797176
