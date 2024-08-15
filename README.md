@@ -1,6 +1,6 @@
 ### Hi there, I'm Tan Le - aka [Anh Tan Ottawa] 👋
 
-[![Website](https://img.shields.io/website?label=My-Portfolio&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://tanle17th.github.io/My-Portfolio/)
+[![Website](https://img.shields.io/website?label=My-Portfolio&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://tanle17th.netlify.app/)
 
 ## I'm a Software Engineer !!
 
